@@ -1,0 +1,12 @@
+body{
+	background-color: black;
+}
+h2, h4, li{
+	color: orange;
+}
+.botao{
+	color: orange;
+}
+p, h5{
+	color: white;
+}
