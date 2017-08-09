@@ -12,24 +12,13 @@
 			<div class="container">
 				<h1>Katerynne Bruzzi</h1>
 				<p class="title">Personal Chef e Doceira</p>
-				<p>CADASTRE-SE</p>
 				
 				<form action="cadastrarCliente.php" role="form" method="post" name="form" id="form">
-					<div class="form-group float-label-control">
-						<input type="text" name="nome" class="form-control" placeholder="Nome Completo">
-					</div>
-					<div class="form-group float-label-control">
-						<input type="text" name="telefone" class="form-control" placeholder="Telefone">
-					</div>
-					<div class="form-group float-label-control">
-						<input type="date" name="dtNasc" class="form-control" placeholder="Date">
-					</div>
-					<div class="form-group float-label-control">
-						<input type="text" name="bairro" class="form-control" placeholder="Bairro onde mora">
-					</div>
-					<div class="form-group float-label-control">
-						<p><button type="submit">CADASTRAR</button></p>
-					</div>
+					<input type="text" id="fname" name="nome" placeholder="Nome Completo">
+					<input type="text" id="lname" name="telefone" placeholder="Telefone">
+					<input type="text" id="fname" name="dtNasc" placeholder="Data Nascimento">
+					<input type="text" id="lname" name="bairro" placeholder="Bairro">
+					<input type="submit" value="CADASTRE-SE">
 				</form>
 				<br>
 				
