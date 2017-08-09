@@ -8,7 +8,7 @@
 		<br><br>
 
 		<div class="card">
-			<img src="images/ChefI.jpg" alt="Katerynne Bruzzi" style="width:100%">
+			<img src="images/fotoIndex.jpg" alt="Katerynne Bruzzi" style="width:100%">
 			<div class="container">
 				<h1>Katerynne Bruzzi</h1>
 				<p class="title">Personal Chef e Doceira</p>
