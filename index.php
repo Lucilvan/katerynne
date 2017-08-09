@@ -12,7 +12,7 @@
 			<div class="container">
 				<h1>Katerynne Bruzzi</h1>
 				<p class="title">Personal Chef e Doceira</p>
-				<p>Cadastro de Clientes</p>
+				<p>CADASTRE-SE</p>
 				
 				<form action="cadastrarCliente.php" role="form" method="post" name="form" id="form">
 					<div class="form-group float-label-control">
@@ -36,7 +36,6 @@
 				<a href="https://fb.me/KaterynneBruzzi" class="facebook w3ls" title="FaceBook: KaterynneBruzzi" target="_blank"><i class="fa w3ls fa-facebook-square" aria-hidden="true"></i></a>
 				<a href="https://www.instagram.com/katerynnebruzzi/" class="instagram wthree" title="Instagram: katerynnebruzzi" target="_blank"><i class="fa wthree fa-instagram" aria-hidden="true"></i></a>	  
 				<a href="whatsapp.html" class="instagram wthree" title="WhatsApp: (84) 98845-9674"><i class="fa wthree fa-whatsapp" aria-hidden="true"></i></a>
-				<p> (84) 98719-1171</p>
 					  
 				<p><a id="acessar" href="site.html">Acessar o site.</a> </p>
 			</div>
