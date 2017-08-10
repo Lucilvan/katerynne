@@ -5,7 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="css/indexCss.css">
 	</head>
 	<body>
-		<br><br>
+		<br>
 
 		<div class="card">
 			<img src="images/fotoIndex.jpg" alt="Katerynne Bruzzi" style="width:100%">
@@ -26,7 +26,7 @@
 				<a href="https://www.instagram.com/katerynnebruzzi/" class="instagram wthree" title="Instagram: katerynnebruzzi" target="_blank"><i class="fa wthree fa-instagram" aria-hidden="true"></i></a>	  
 				<a href="whatsapp.html" class="instagram wthree" title="WhatsApp: (84) 98845-9674"><i class="fa wthree fa-whatsapp" aria-hidden="true"></i></a>
 					  
-				<p><a id="acessar" href="site.html">Acessar o site.</a> </p>
+				<p><a id="button" href="site.html">ACESSE O SITE</a> </p>
 			</div>
 		</div>
 
